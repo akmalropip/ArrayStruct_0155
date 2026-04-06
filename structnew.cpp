@@ -31,4 +31,4 @@ cout << "Nama : " << mhs.nama << endl;
 cout << "Alamat : " << mhs.alamat.desa << endl;
 cout << "Alamat : " << mhs.alamat.kota << endl;
 cout << "Umur : " << mhs.umur << endl;
-}
+}                                             
